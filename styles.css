@@ -1,0 +1,934 @@
+.tops {
+  width: 1200px;
+  height: 2000px;
+  position: relative;
+  top: 100px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #426e81;
+  border-radius: 20px;
+}
+.tops2 {
+  width: 1200px;
+  height: 1650px;
+  position: relative;
+  top: 100px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #426e81;
+  border-radius: 20px;
+}
+.tops1 {
+  width: 1200px;
+  height: 1250px;
+  position: relative;
+  top: 100px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #426e81;
+  border-radius: 20px;
+}
+#title {
+  position: relative;
+  top: 80px;
+  color: #426e81;
+  padding-left: 60px;
+}
+h4 {
+  position: relative;
+  top: 80px;
+  padding-left: 40px;
+  padding-right: 70px;
+}
+.textintro {
+  width: 90%;
+  border-radius: 100%;
+  color: #426e81;
+  position: relative;
+  top: 80px;
+  left: 12px;
+  right: 120px;
+  padding-left: 12px;
+}
+.intro {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+  color: #426e81;
+}
+#Top1 {
+  display: inline-block;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  width: 500px;
+  height: 500px;
+  margin-top: 70px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+#Top2 {
+  display: inline-block;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  width: 500px;
+  height: 500px;
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+#Top3 {
+  display: block;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  width: 500px;
+
+  height: 480px;
+  position: relative;
+  top: 70px;
+  left: 320px;
+  bottom: 15px;
+}
+.images {
+  width: 400px;
+  height: 250px;
+  position: relative;
+  top: 50px;
+  right: 40px;
+  left: 40px;
+  border-radius: 10px;
+}
+nav ul {
+  width: 100%;
+  height: 70px;
+  position: fixed;
+  left: -1%;
+  right: -1%;
+  top: -22px;
+  z-index: 100;
+  border-radius: 1px;
+  border-radius: 10px;
+  margin-left: 0;
+  margin-right: 0px;
+  background-color: antiquewhite;
+  border-style: solid;
+  border-color: #426e81;
+  border-width: 2px;
+  padding: 0.5em;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 10px, 10px, 40px, 0px, rgba(80, 128, 149, 0.05);
+}
+nav ul a:hover {
+  background-color: #bfccd3;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+h2 {
+  position: relative;
+  top: 90px;
+}
+.nav-with-logo {
+  display: inline-block;
+  margin: 10px 30px 0px 30px;
+  color: #426e81;
+  font-size: 25px;
+  position: relative;
+  top: 15px;
+  left: 30px;
+  text-decoration: none;
+}
+.navbar {
+  /*change name*/
+  display: inline-block;
+  margin: 10px 30px 0px 30px;
+  color: #426e81;
+  font-size: 21px;
+  position: relative;
+  top: 15px;
+  left: 500px;
+  text-decoration: none;
+}
+.navbar li:hover {
+  background-color: #bfccd3;
+}
+/*
+.sakura {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  top: 20%;
+}
+.sakura img {
+  width: 100px;
+  animation: sakura 4s linear infinite;
+}
+@keyframes sakura {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(10);
+  }
+  75% {
+    transform: translateY(20);
+  }
+  100% {
+    transform: translateY(30);
+  }
+}
+.sakura img:nth-child(1) {
+  animation-delay: 2s;
+}
+.sakura img:nth-child(2) {
+  animation-delay: 5s;
+}
+.sakura img:nth-child(3) {
+  animation-delay: 3s;
+}
+.sakura img:nth-child(4) {
+  animation-delay: 7s;
+}*/
+ul {
+  padding-top: 15px;
+  padding: 1em;
+  position: relative;
+  top: 23px;
+  left: 42.5px;
+}
+
+h5 {
+  position: relative;
+  top: 40px;
+  left: 20px;
+  right: 30px;
+  color: #426e81;
+  padding-left: 10px;
+  padding-right: 50px;
+}
+.links {
+  position: relative;
+  top: 25px;
+  right: 30px;
+  left: 20px;
+}
+.images1 {
+  width: 400px;
+  height: 250px;
+  position: relative;
+  top: 80px;
+  right: 40px;
+  left: 450px;
+  border-width: 2px;
+  border-color: #426e81;
+  border-radius: 10px;
+}
+.images2 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top: 80px;
+  right: 40px;
+  left: 100px;
+  border-width: 2px;
+  border-color: #426e81;
+  border-radius: 10px;
+}
+.TitlesOthers {
+  position: relative;
+  top: 70px;
+  left: 70px;
+  color: #426e81;
+}
+.textintro1 {
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  left: 25px;
+  right: 40px;
+  padding-left: 15px;
+  padding-right: 55px;
+  color: #ffb7c5;
+  font-size: large;
+}
+.lists {
+  position: relative;
+  top: 15px;
+  left: 40px;
+  color: #ffb7c5;
+}
+ul {
+  color: #ffb7c5;
+}
+.Videos {
+  position: relative;
+  top: 23px;
+  left: 350px;
+  width: 550px;
+  height: 350px;
+  border: 10px;
+  border-radius: 10px;
+  border-color: #ffb7c5;
+}
+.kyotoandtokyotitles {
+  display: inline-block;
+  position: relative;
+  top: 70px;
+  left: 70px;
+  color: #ffb7c5;
+  font-size: x-large;
+}
+.text2 {
+  position: relative;
+  top: 90px;
+  left: 15px;
+  padding-left: 10px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  color: #ffb7c5;
+}
+.maps {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 100px;
+  left: 600px;
+  border-radius: 10px;
+  border-color: #426e81;
+}
+@media only screen and (max-width: 600px) {
+  .textintro {
+    font-size: small;
+    width: 100%;
+    top: 80px;
+    padding-left: 50px;
+    padding-right: 30px;
+  }
+  .tops1 {
+    width: 100%;
+    height: 1800px;
+  }
+  .tops2 {
+    width: 100%;
+    height: 1550px;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .tops {
+    width: 100%;
+    height: 2200px;
+    position: relative;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  #Top1 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 40px;
+  }
+  #Top2 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #Top3 {
+    display: inline-block;
+    width: 80%;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    top: 70px;
+    left: 10px;
+    bottom: 15px;
+  }
+  #title {
+    width: 100%;
+  }
+  h4 {
+    width: 100%;
+  }
+  #introduction {
+    color: #ffb7c5;
+    width: 100%;
+    position: relative;
+    top: 35px;
+    left: 20px;
+  }
+  .images {
+    width: 80%;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: 40px;
+    left: 40px;
+    border-radius: 10px;
+  }
+  .images2 {
+    display: inline-block;
+    width: 40%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 50px;
+    border-width: 2px;
+    border-color: #426e81;
+    border-radius: 10px;
+  }
+  .lists {
+    color: #ffb7c5;
+    top: 15px;
+    left: 40px;
+  }
+  .Videos {
+    position: relative;
+    top: 23px;
+    left: 50px;
+    width: 80%;
+    height: 300px;
+  }
+  ul {
+    color: #ffb7c5;
+  }
+  .kyotoandtokyotitles {
+    top: 70px;
+    left: 70px;
+  }
+  .text2 {
+    font-size: smaller;
+  }
+  .images1 {
+    width: 60%;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 120px;
+  }
+  .maps {
+    width: 20%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+  }
+  .textintro1 {
+    position: relative;
+    top: 10px;
+    left: 25px;
+    right: 40px;
+    padding-left: 15px;
+    padding-right: 55px;
+    color: #ffb7c5;
+    font-size: smaller;
+  }
+  .TitlesOthers {
+    position: relative;
+    top: 70px;
+    left: 70px;
+    color: #426e81;
+  }
+  .navbar li:hover {
+    background-color: #bfccd3;
+  }
+  */ .nav-with-logo {
+    display: inline-block;
+    margin: 10px 80px 0px -30px;
+    color: #426e81;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 30px;
+    text-decoration: none;
+  }
+  .navbar {
+    /*change name*/
+    display: inline-block;
+    margin: 15px 15px 0px 15px;
+    color: #426e81;
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    text-decoration: none;
+  }
+}
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .textintro {
+    font-size: small;
+    width: 100%;
+    top: 80px;
+    padding-left: 50px;
+    padding-right: 30px;
+  }
+  .tops1 {
+    width: 100%;
+    height: 1800px;
+  }
+  .tops2 {
+    width: 100%;
+    height: 1550px;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .tops {
+    width: 100%;
+    height: 2200px;
+    position: relative;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  #Top1 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 40px;
+  }
+  #Top2 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #Top3 {
+    display: inline-block;
+    width: 80%;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    top: 70px;
+    left: 10px;
+    bottom: 15px;
+  }
+  #title {
+    width: 100%;
+  }
+  h4 {
+    width: 100%;
+  }
+  #introduction {
+    color: #ffb7c5;
+    width: 100%;
+    position: relative;
+    top: 35px;
+    left: 20px;
+  }
+  .images {
+    width: 80%;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: 40px;
+    left: 40px;
+    border-radius: 10px;
+  }
+  .images2 {
+    display: inline-block;
+    width: 40%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 50px;
+    border-width: 2px;
+    border-color: #426e81;
+    border-radius: 10px;
+  }
+  .lists {
+    color: #ffb7c5;
+    top: 15px;
+    left: 40px;
+  }
+  .Videos {
+    position: relative;
+    top: 23px;
+    left: 50px;
+    width: 80%;
+    height: 300px;
+  }
+  ul {
+    color: #ffb7c5;
+  }
+  .kyotoandtokyotitles {
+    top: 70px;
+    left: 70px;
+  }
+  .text2 {
+    font-size: smaller;
+  }
+  .images1 {
+    width: 60%;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 120px;
+  }
+  .maps {
+    width: 20%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+  }
+  .textintro1 {
+    position: relative;
+    top: 10px;
+    left: 25px;
+    right: 40px;
+    padding-left: 15px;
+    padding-right: 55px;
+    color: #ffb7c5;
+    font-size: smaller;
+  }
+  .TitlesOthers {
+    position: relative;
+    top: 70px;
+    left: 70px;
+    color: #426e81;
+  }
+  .nav-with-logo {
+    display: inline-block;
+    margin: 10px 80px 0px -10px;
+    color: #426e81;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 30px;
+    text-decoration: none;
+  }
+  .navbar {
+    /*change name*/
+    display: inline-block;
+    margin: 10px 10px 0px 35px;
+    color: #426e81;
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    text-decoration: none;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  .textintro {
+    font-size: small;
+    width: 100%;
+    top: 80px;
+    padding-left: 50px;
+    padding-right: 30px;
+  }
+  .tops1 {
+    width: 100%;
+    height: 1800px;
+  }
+  .tops2 {
+    width: 100%;
+    height: 1550px;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .tops {
+    width: 100%;
+    height: 2200px;
+    position: relative;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  #Top1 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 40px;
+  }
+  #Top2 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #Top3 {
+    display: inline-block;
+    width: 80%;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    top: 70px;
+    left: 10px;
+    bottom: 15px;
+  }
+  #title {
+    width: 100%;
+  }
+  h4 {
+    width: 100%;
+  }
+  #introduction {
+    color: #ffb7c5;
+    width: 100%;
+    position: relative;
+    top: 35px;
+    left: 20px;
+  }
+  .images {
+    width: 80%;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    right: 40px;
+    left: 40px;
+    border-radius: 10px;
+  }
+  .images2 {
+    display: inline-block;
+    width: 50%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 20px;
+    border-width: 2px;
+    border-color: #426e81;
+    border-radius: 10px;
+  }
+  .lists {
+    color: #ffb7c5;
+    top: 15px;
+    left: 40px;
+  }
+  .Videos {
+    position: relative;
+    top: 23px;
+    left: 50px;
+    width: 80%;
+    height: 350px;
+  }
+  ul {
+    color: #ffb7c5;
+  }
+  .kyotoandtokyotitles {
+    top: 70px;
+    left: 70px;
+  }
+  .text2 {
+    font-size: smaller;
+  }
+  .images1 {
+    width: 45%;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 320px;
+  }
+  .maps {
+    width: 20%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 90px;
+  }
+  .textintro1 {
+    position: relative;
+    top: 10px;
+    left: 25px;
+    right: 40px;
+    padding-left: 15px;
+    padding-right: 55px;
+    color: #ffb7c5;
+    font-size: smaller;
+  }
+  .TitlesOthers {
+    position: relative;
+    top: 70px;
+    left: 70px;
+    color: #426e81;
+  }
+  .nav-with-logo {
+    display: inline-block;
+    margin: 10px 80px 0px -10px;
+    color: #426e81;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 30px;
+    text-decoration: none;
+  }
+  .navbar {
+    /*change name*/
+    display: inline-block;
+    margin: 10px -10px 0px 80px;
+    color: #426e81;
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 100px;
+    text-decoration: none;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .textintro {
+    font-size: small;
+    width: 100%;
+    top: 80px;
+    padding-left: 50px;
+    padding-right: 30px;
+  }
+  .tops1 {
+    width: 100%;
+    height: 1800px;
+  }
+  .tops2 {
+    width: 100%;
+    height: 1550px;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .tops {
+    width: 100%;
+    height: 2200px;
+    position: relative;
+    top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  #Top1 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 40px;
+  }
+  #Top2 {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #Top3 {
+    display: inline-block;
+    width: 80%;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    top: 70px;
+    left: 10px;
+    bottom: 15px;
+  }
+  #title {
+    width: 100%;
+  }
+  h4 {
+    width: 100%;
+  }
+  #introduction {
+    color: #ffb7c5;
+    width: 100%;
+    position: relative;
+    top: 35px;
+    left: 20px;
+  }
+  .images {
+    width: 50%;
+    height: 250px;
+    position: relative;
+    top: 50px;
+    right: 40px;
+    left: 40px;
+    border-radius: 10px;
+  }
+  .images2 {
+    width: 40%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 50px;
+  }
+  .lists {
+    color: #ffb7c5;
+    top: 15px;
+    left: 40px;
+  }
+  .Videos {
+    position: relative;
+    top: 23px;
+    left: 50px;
+    width: 80%;
+    height: 350px;
+  }
+  ul {
+    color: #ffb7c5;
+  }
+  .kyotoandtokyotitles {
+    top: 70px;
+    left: 70px;
+  }
+  .text2 {
+    font-size: smaller;
+  }
+  .images1 {
+    width: 45%;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    left: 320px;
+  }
+  .maps {
+    width: 20%;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+  }
+  .textintro1 {
+    position: relative;
+    top: 10px;
+    left: 25px;
+    right: 40px;
+    padding-left: 15px;
+    padding-right: 55px;
+    color: #ffb7c5;
+    font-size: smaller;
+  }
+  .TitlesOthers {
+    position: relative;
+    top: 70px;
+    left: 70px;
+    color: #426e81;
+  }
+  /* nav ul {
+    width: 80%;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+  nav ul li {
+    width: 100%;
+  }*/
+}
+#introduction {
+  color: #ffb7c5;
+  position: relative;
+  left: 50px;
+  top: 40px;
+}
